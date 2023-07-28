@@ -7,7 +7,7 @@ Title of the dataset:
 [Data from:] A butterfly egg-killing hypersensitive response in Brassica nigra is controlled by a single dominant PEK locus (Pieris egg-killing) containing a cluster of TIR-NBS-LRR receptors
 doi: https://doi.org/10.5281/zenodo.8131352
 
-Creator:
+Creator: 
 Name:	Niccolò Bassetti
 Institution: Biosystematics Group (Wageningen University & Research)
 ORCID: https://orcid.org/0000-0003-1859-4698
