@@ -21,7 +21,8 @@ Data and file overview:
 <br>Files are arranged in the following folders, with each folder referrring to a figure of the manuscript/article.
 <br>Tables are only presented in the manuscript and in the Zenodo repository.
 <br>
-<br>figure_1:	Figure1_2023.R - R script for statistical analysis
+<br>figure_1:<br>
+Figure1_2023.R - R script for statistical analysis
 		<br>RawdataFigure1.csv - dataset used for R script "Figure1_2023.R"
 		<br>Figure1.xlsx - excel file used to plot final figure
 			
