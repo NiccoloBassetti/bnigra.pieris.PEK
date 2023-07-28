@@ -14,17 +14,16 @@ Creator:
 <br>Email: niccolo.bassetti@protonmail.com
 
 Abstract:
-In this study, we found that P. brassicae egg-induced HR segregates as a Mendelian trait in wild accessions of black mustard B. nigra L. Through bulk-segregant analysis coupled with whole-genome sequencing (BSAseq),
+<br>In this study, we found that P. brassicae egg-induced HR segregates as a Mendelian trait in wild accessions of black mustard B. nigra L. Through bulk-segregant analysis coupled with whole-genome sequencing (BSAseq),
 we identified a single dominant locus on chromosome B3 which we named PEK (Pieris egg-killing locus).
 
-DATA & FILE OVERVIEW
-
-Files are arranged in the following folders, with each folder referrring to a figure of the manuscript/article.
-Tables are only presented in the manuscript and in the Zenodo repository.
-
-figure_1:	Figure1_2023.R - R script for statistical analysis
-			RawdataFigure1.csv - dataset used for R script "Figure1_2023.R"
-			Figure1.xlsx - excel file used to plot final figure
+Data and file overview:
+<br>Files are arranged in the following folders, with each folder referrring to a figure of the manuscript/article.
+<br>Tables are only presented in the manuscript and in the Zenodo repository.
+<br>
+<br>figure_1:	Figure1_2023.R - R script for statistical analysis
+		<br>RawdataFigure1.csv - dataset used for R script "Figure1_2023.R"
+		<br>Figure1.xlsx - excel file used to plot final figure
 			
 figure_2:	fig.2a_DG1-S1_vs_SF48-O1.jpg - raw image used for panel 1a
 			fig.2b_README.txt - README explaining that raw data for figure 2b are included in folder table_1_and_S1
