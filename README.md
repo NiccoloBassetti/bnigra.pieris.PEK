@@ -20,13 +20,13 @@ we identified a single dominant locus on chromosome B3 which we named PEK (Pieri
 Data and file overview:
 <br>Files are arranged in the following folders, with each folder referrring to a figure of the manuscript/article.
 <br>Tables are only presented in the manuscript and in the Zenodo repository.
-<br>
+
 <br>figure_1:
 <br>Figure1_2023.R - R script for statistical analysis
 <br>RawdataFigure1.csv - dataset used for R script "Figure1_2023.R"
 <br>Figure1.xlsx - excel file used to plot final figure
 	
-<br>figure_2:	fig.2a_DG1-S1_vs_SF48-O1.jpg - raw image used for panel 1a
+figure_2:	fig.2a_DG1-S1_vs_SF48-O1.jpg - raw image used for panel 1a
 			fig.2b_README.txt - README explaining that raw data for figure 2b are included in folder table_1_and_S1
 			fig.2c_dataset_BSA_results.xlsx - raw data from BSA-seq analysis and plotting
 			fig.2c_dataset_markers_BC1.xlsx -  - raw marker data plotted in figure 2C
