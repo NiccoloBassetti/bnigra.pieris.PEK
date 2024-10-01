@@ -3,9 +3,6 @@
 This repository contains datasets and code used in the study:
 *"A butterfly egg-killing hypersensitive response in Brassica nigra is controlled by a single locus, PEK, containing a cluster of TIR-NBS-LRR receptors"* of Bassetti et al. 2024. *Plant, Cell and Environment* 47 (9), 009-1022. https://doi.org/10.1111/pce.14765
 
-An earlier preprint version (not peer-reviewed) appeared on Authorea Preprints:
-https://doi.org/10.22541/au.168942068.87319933/v1 
-
 The datasets are also available on a Zenodo repository:
 <br>doi: https://doi.org/10.5281/zenodo.8131352
 
