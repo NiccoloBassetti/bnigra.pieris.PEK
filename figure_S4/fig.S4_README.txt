@@ -1,0 +1,1 @@
+Raw data plotted in Fig. S4 are available in the folder "figure_2" within the Excel "fig.2c_dataset_BSA_results.xlsx", sheet "1Mb_mapping_genome_C2".
