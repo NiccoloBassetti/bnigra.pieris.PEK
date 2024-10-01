@@ -7,7 +7,7 @@ An earlier preprint version (not peer-reviewed) appeared on Authorea Preprints:
 https://doi.org/10.22541/au.168942068.87319933/v1 
 
 The datasets are also puplicly available on a Zenodo repository:
-Title of the dataset:
+<br>Title of the dataset:
 <br>[Data from:] A butterfly egg-killing hypersensitive response in Brassica nigra is controlled by a single dominant PEK locus (Pieris egg-killing) containing a cluster of TIR-NBS-LRR receptors
 <br>doi: https://doi.org/10.5281/zenodo.8131352
 
@@ -18,7 +18,7 @@ Creator:
 <br>Email: niccolo.bassetti@protonmail.com
 
 Licence: 
-This dataset is published under the CC BY (Attribution) license.
+<br>This dataset is published under the CC BY (Attribution) license.
 <br>This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator.
 
 
