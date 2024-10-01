@@ -1,0 +1,1 @@
+NOTE. In order to generate panel b, marker data of 64 recombinants were compressed to show only haplotypes (multiple plants with same marker genotype).
